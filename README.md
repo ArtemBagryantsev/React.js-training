@@ -1,2 +1,2 @@
 GitHub test project
-(Switching between the pages)
+(Rendering list of names)
