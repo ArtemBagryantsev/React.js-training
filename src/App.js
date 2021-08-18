@@ -10,6 +10,7 @@ const App = () => {
     <div>
       <Router>
         <Navbar />
+        <hr/>
         <Switch>
 
           <Route exact path='/' >
