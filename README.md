@@ -1,2 +1,2 @@
 GitHub test project
-(Switching berween the pages)
+(Switching between the pages)
