@@ -1,11 +1,7 @@
 import React from "react";
 
 const Person = (props) => {
-    return (
-        <ul>
-            <li>{props.name}</li>
-        </ul>
-    )
+    return <li>{props.name}</li>
 }
 
 export default Person;

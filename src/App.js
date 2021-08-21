@@ -16,7 +16,7 @@ const App = () => {
             <Home />
           </Route>
 
-          <Route path='/page1'>
+          <Route path='/StarWars_characters'>
             <PersonPage />
           </Route>
 
